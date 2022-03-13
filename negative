@@ -1,0 +1,12 @@
+list1=[]
+n=int(input("eneter the number of elements in the list:")
+#for taking inputs from the user
+for x in range(0,n):
+      nums=int(input())
+      list1.append(nums)
+
+#for checking negative elements and removing them out
+      
+for y in list1:
+      if(y>0)
+      print(y)
